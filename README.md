@@ -1,4 +1,4 @@
 # cse210-ww-student-exercises
-#Diogo Rangel
+#Diogo Rangel Dos Santos
 
-My studies
+Projects and programs in #C
